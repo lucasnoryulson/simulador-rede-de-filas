@@ -109,3 +109,4 @@ Se tiver o `simulator.jar` da disciplina, a comparação pode ser repetida com:
 java -jar simulator.jar run modelo_validacao.yml
 python3 simulator.py run modelo_validacao.yml
 ```
+# simulador-rede-de-filas
